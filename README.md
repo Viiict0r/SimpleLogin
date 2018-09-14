@@ -1,0 +1,1 @@
+Sistema de login básico em PHP utilizando banco de dados MySQL.
